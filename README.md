@@ -1,7 +1,7 @@
 # Physics-2D-rust
 Simple 2D physics engine using Rust-ggez
 ## Preview
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/MarcVivas/Physics-2D-rust/blob/main/rust.gif)
 
 
 
