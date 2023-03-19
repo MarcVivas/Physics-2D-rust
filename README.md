@@ -10,5 +10,8 @@ Simple 2D physics engine using Rust-ggez
 2. Go to the project directory. <br>
 3. Install the dependencies of the program, the dependencies are written in the cargo.toml file. <br>
 4. Open the terminal and go to the project directory
-5. On the terminal, type cargo run --release to run the program.
-5. You can add particles pressing the letter 'P' or left clicking on the screen.
+5. To run the program type: 
+```shell
+cargo run --release
+```
+6. You can add particles pressing the letter `P` or left clicking on the screen.
